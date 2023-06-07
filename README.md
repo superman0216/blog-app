@@ -1,29 +1,43 @@
-# TodoList with React, Redux and TypeScript
-A simple TodoList with React, Redux and TypeScript
+### `Creator : Hiroo Kawahara`
 
 
-## Features
-* Load items from API
-* Create a new item
-* Edit item
-* Toggle item
-* Delete item (using REST API)
-* Filter items (show all, active and completed)
-* Show counter
+## Available Scripts
 
-## Technologies
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
-[![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
-[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
-[![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org)
-[![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)](https://prettier.io)
+In the project directory, you can run:
 
-## Getting Started
-Tools needed to run this app: `node` and `npm`
+### `npm start`
 
-- `npm install` to install dependencies
-- `npm install -g json-server` to get a full fake REST API
-- `npm run json-server` to run JSON server
-- `npm start` to run the app
-- Go to `http://localhost:3000`
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+### `npm run server`
+
+Runs the app in the development mode.\
+Open [http://localhost:8000](http://localhost:8000) to view it in the browser.
+
+to start project easily :
+
+### `npm run dev`
+
+start frontend server and backend server concurrently.
+
+### `Features`
+
+-using stack: React, Redux, Typescript, Node, Express and Tailwind CSS
+-simple authentication funtionality such as sign up, sign in, sign out.
+-flexible dashboard functionality showing all list of blogs whoever he is.
+-detail page functionality for a authenticated user.
+-change and update functionality in the case of authenticated user.
+-watches count by using watche button.
+-useful alerts functionality such as "invalid user" or "successfully registered!" and so on.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).

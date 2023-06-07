@@ -1,10 +1,11 @@
-### `Creator : Hiroo Kawahara`
-
+# Creator : Hiroo Kawahara
+## About this project
+   This is Blog project.
 
 ## Available Scripts
 
 In the project directory, you can run:
-
+## How to run this project?
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -26,7 +27,7 @@ to start project easily :
 
 start frontend server and backend server concurrently.
 
-### `Features`
+## Features
 
 -using stack: React, Redux, Typescript, Node, Express and Tailwind CSS
 -simple authentication funtionality such as sign up, sign in, sign out.

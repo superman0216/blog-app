@@ -31,11 +31,10 @@ start frontend server and backend server concurrently.
 
 -using stack: React, Redux, Typescript, Node, Express and Tailwind CSS
 -simple authentication funtionality such as sign up, sign in, sign out.
--flexible dashboard functionality showing all list of blogs whoever he is.
+-flexible blog functionality showing all list of blogs to anyonegit
 -detail page functionality for a authenticated user.
 -change and update functionality in the case of authenticated user.
 -watches count by using watche button.
--useful alerts functionality such as "invalid user" or "successfully registered!" and so on.
 
 ## Learn More
 
